@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>GitHub Profile</title>
     <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
 <h3 align="center">I,m passionate frontend developer from India 😊😎</h3>
     <img align = "right" alt="" width="500" src="	https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
