@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
+    <align="center">Hi 👋, I'm Ashish Sharma>
 <h3 align="center">I,m passionate frontend developer from India 😊😎</h3>
     <img align = "right" alt="" width="500" src="	https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish777a&label=Profile%20views&color=0e75b6&style=flat" alt="ashish777a" /> </p>
