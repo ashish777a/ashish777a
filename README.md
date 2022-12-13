@@ -7,15 +7,15 @@
     
     Hi I'm Ashish Sharma
     
-<h3 align="center">I,m passionate frontend developer from India 😊😎</h3>
+<h3 align="center">I,m passionate full stack developer from India 😊😎</h3>
     <img align = "right" alt="" width="500" src="	https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish777a&label=Profile%20views&color=0e75b6&style=flat" alt="ashish777a" /> </p>
 
-- 🔭 I’m currently studing codding [Pioverseas](file:///C:/fullstack%20laearning/pioverses15-09-22/https-pioverseas.html.html)
+- 🔭 I’m currently studing full stack learning
 
-- 🌱 I’m currently learning **Web Developer**
+🌱 I’m currently learning **Web Developer**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **full stack developer**
 
 - 📫 How to reach me **ashishsharma@gmail.com**
 
